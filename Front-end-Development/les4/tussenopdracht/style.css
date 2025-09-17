@@ -1,0 +1,17 @@
+:root {
+    --p: #606c38;
+    --p1: #283618;
+    --p2: #fefae0;
+    --p3: #dda15e;
+    --p4: #bc6c25;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #bc6c25;
+}
