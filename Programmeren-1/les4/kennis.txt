@@ -1,0 +1,13 @@
+&& en teken voor if else statement
+|| of teken voor if else statement
+
+++ voegt 1 toe
+-- haalt 1 af
+
+maar wat je ook kan doen is:
+a+=7 (inplaats van a=a+7)
+a-=7 (inplaats van a=a-7)
+a*=7 (inplaats van a=a*7)
+a/=7 (inplaats van a=a/7)
+
+if !isRaining, dit checkt of het niet regent
